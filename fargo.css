@@ -108,7 +108,8 @@ table tbody tr:hover {
 
 
 .image-container {
-    width: 100%;
+    width: 193px;
+    height: 173px;
     overflow: hidden;
     display: flex;
     justify-content: center;
