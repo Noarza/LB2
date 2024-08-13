@@ -78,7 +78,7 @@ table tbody tr:hover {
 
 .box {
     width: calc(33.333% - 20px);
-    height: 200px;
+    height: 250px;
     /* ปรับความสูงของกล่องตามที่ต้องการ */
     border: 1px solid #ddd;
     border-radius: 8px;
